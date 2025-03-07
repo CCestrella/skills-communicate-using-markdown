@@ -12,3 +12,9 @@ Added Markdown headers from H1 to H6
 ```
 git clone https://github.com/your-username/your-repo.git
 ```
+
+**Examples of a task list**
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
